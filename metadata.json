@@ -1,0 +1,6 @@
+{
+  "name": "GT Lock & Account Store",
+  "description": "Platform jual beli Diamond Lock, BGL, World Lock, dan akun Growtopia terpercaya dengan proses cepat 1-5 menit dan garansi keamanan via WhatsApp Admin resmi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
